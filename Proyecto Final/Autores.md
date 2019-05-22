@@ -3,6 +3,7 @@ Proyecto Final Computo Móvil
 Integrtantes:
 
 Romero Hurtado Eduardo David
+
 Serrano Bermudez Luis Esteban
 
 Semestre:
